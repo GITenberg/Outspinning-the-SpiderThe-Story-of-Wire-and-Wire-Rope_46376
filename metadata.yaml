@@ -1,0 +1,30 @@
+_repo: Outspinning-the-SpiderThe-Story-of-Wire-and-Wire-Rope_46376
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46376-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mumford, John Kimberly
+    alias: Mumford, John K.
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '43748'
+    url: http://www.gutenberg.org/2009/agents/43748
+description: ''
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46376'
+  lccn: '22026150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'John A. Roebling''s Sons Company'
+- !lcsh 'Wire'
+- !lcsh 'Wire rope'
+- !lcc 'TS'
+title: 'Outspinning the Spider: The Story of Wire and Wire Rope'
+url: http://www.gutenberg.org/ebooks/46376
